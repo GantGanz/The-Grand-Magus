@@ -1,0 +1,13 @@
+fire + fire = fireball (splash + damage overtime + fear)
+
+wind + wind = tornado (stun)
+wind + fire = flamethrower (dots + fear)
+
+earth + earth = earthquake (area damage + slow)
+earth + wind = boulder throw (splash damage + push)
+earth + fire = meteor (unsotpable damage + fear)
+
+water + water = tsunami (damage + push + slow)
+water + fire = mist (invincible + slow)
+water + earth = geyser (stun + damage)
+water + wind = acid rain (damage all enemy on screen overtime + slow)
