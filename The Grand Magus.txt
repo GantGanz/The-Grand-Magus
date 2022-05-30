@@ -1,13 +1,38 @@
+TO DO :
+
+teleport in and out, spawn monster repeat on start 10 times, balance enemies
+
 fire + fire = fireball (splash + damage overtime + fear)
+upg.1 fire 2, times upg.2, fire 3 times
 
 wind + wind = tornado (stun)
-wind + fire = flamethrower (dots + fear)
+upg.1 higher tornado (longer stun), upg.2 
+
+wind + fire = dragon breath (dots + fear)
+upg.1 black dragon breath (damage + color), upg.2 golden dragon breath
 
 earth + earth = earthquake (area damage + slow)
+upg.1 additional ring, upg.2 additional ring (leshrac)
+
 earth + wind = boulder throw (splash damage + push)
+
 earth + fire = meteor (unsotpable damage + fear)
+upg.1 random smaller meteors, upg.2 2 extra meteor at 45 degree
 
 water + water = tsunami (damage + push + slow)
-water + fire = mist (invincible + slow)
+upg.1 ghost ship, upg.2 ghost fleet
+
+water + fire = mist of illusion (invincible + slow)
+upg.1 , upg.2 poisoned mist
+
 water + earth = geyser (stun + damage)
+upg.1 more smaller random geyser, upg.2 bigger random geyser
+
 water + wind = acid rain (damage all enemy on screen overtime + slow)
+upg.1 storm (thundering random enemies), upg.2 
+
+Graveyard of forgotten heroes :
+ghast move aimlessly, change random direction and speed every five seconds
+crawler, smell and move toward the player location at that moment on respawn, and follow player if they r in his detection range
+skeleton, always move to player location, can respawn once
+BOSS : Legion Commander of The Immortal Faith, summon immortal army, other enemy stop respawning
